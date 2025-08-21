@@ -34,6 +34,7 @@ Every section corresponds to a module or milestone I completed in my learning jo
 
 ## 🏗️ Project Structure
 
+```
 Web Development Course/
 ├── frontend/
 │   └── [HTML, CSS, JS, React code]
@@ -47,7 +48,7 @@ Web Development Course/
 │   └── [Markdown, cheatsheets]
 ├── README.md
 └── .gitignore
-
+```
 
 ## 🤝 Contributing
 
