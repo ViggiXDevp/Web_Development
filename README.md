@@ -1,7 +1,7 @@
 # Full Stack Web Development Course
 
 Welcome to the **Web Development** repository!  
-Created and maintained by VIGHNESH REDDY (ViggiXDevp(https://github.com/ViggiXDevp)).  
+Created and maintained by G V VIGHNESH REDDY (ViggiXDevp(https://github.com/ViggiXDevp)).  
 This repo tracks my journey through full stack web development, inspired by CodeWithHarry’s Sigma series.
 
 ---
