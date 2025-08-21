@@ -36,17 +36,18 @@ Every section corresponds to a module or milestone I completed in my learning jo
 
 Web Development Course/
 ├── frontend/
-│ └── [HTML, CSS, JS, React code]
+│   └── [HTML, CSS, JS, React code]
 ├── backend/
-│ └── [Node.js, Express, API]
+│   └── [Node.js, Express, API]
 ├── database/
-│ └── [MongoDB schemas, sample data]
+│   └── [MongoDB schemas, sample data]
 ├── exercises/
-│ └── [Individual exercise folders]
+│   └── [Individual exercise folders]
 ├── notes/
-│ └── [Markdown, cheatsheets]
+│   └── [Markdown, cheatsheets]
 ├── README.md
 └── .gitignore
+
 
 ## 🤝 Contributing
 
