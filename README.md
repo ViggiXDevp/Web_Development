@@ -49,7 +49,7 @@ Web Development Course/
 ├── README.md
 └── .gitignore
 ```
-
+---
 ## 🤝 Contributing
 
 Pull requests are welcome! Please fork the repo and create your feature branch.
