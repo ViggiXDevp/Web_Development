@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Float and Clear</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        .cards{
+            border: 2px solid blue;
+            display: flow-root;
+        }
+        img{
+            float: left;
+        }
+        .card{
+            border: 2px solid black;
+        }
+        .card:nth-child(5){
+            background-color: beige;
+            clear: left;
+        }
+    </style>
+</head>
+<body>
+    <div class="cards">
+        <img src="https://www.supercars.net/blog/wp-content/uploads/2020/11/Pagani-Zonda-Aether-151149-370x247.jpg" alt="">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam omnis minima reprehenderit harum perspiciatis possimus tenetur explicabo repellendus vero et, illum ipsa in fuga eos aliquam officia ducimus animi praesentium?</p>
+        <div class="card">Card 1</div>
+        <div class="card">Card 2</div>
+        <div class="card">Card 3</div>
+    </div>
+</body>
+</html>
